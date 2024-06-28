@@ -1,0 +1,10 @@
+:root {
+--custom-color:rgb(35, 73, 199) ;
+}
+.custom{
+    color: var(--custom-color)
+}
+.img{
+    height: 180px;
+    width: 280px;
+}
